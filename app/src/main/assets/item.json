@@ -1,0 +1,83 @@
+{
+  "English": [
+    {
+      "name": "black",
+      "imageId": "black",
+      "soundId": "black"
+
+
+
+    },
+    {
+      "name": "blue",
+      "imageId": "blue",
+      "soundId": "blue"
+
+    },
+    {
+      "name": "boy",
+      "imageId": "boy",
+      "soundId": "boy"
+
+    },
+    {
+      "name": "giraffe",
+      "imageId": "giraffe",
+      "soundId": "giraffe"
+
+    },
+    {
+      "name": "girl",
+      "imageId": "girl",
+      "soundId": "girl"
+
+    },
+
+    {
+      "name": "green",
+      "imageId": "green",
+      "soundId": "green"
+
+    },
+
+    {
+      "name": "man",
+      "imageId": "man",
+      "soundId": "man"
+
+    },
+
+    {
+      "name": "monkey",
+      "imageId": "monkey",
+      "soundId": "monkey"
+
+    },
+    {
+      "name": "red",
+      "imageId": "red",
+      "soundId": "red"
+
+    },
+    {
+      "name": "white",
+      "imageId": "white",
+      "soundId": "white"
+
+    },
+    {
+      "name": "woman",
+      "imageId": "woman",
+      "soundId": "woman"
+
+    },
+
+
+    {
+      "name": "yellow",
+      "imageId": "yellow",
+      "soundId": "yellow"
+    }
+
+  ]
+}

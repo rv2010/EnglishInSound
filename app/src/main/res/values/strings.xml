@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnglishInSound</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
