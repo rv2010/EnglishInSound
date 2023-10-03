@@ -12,5 +12,15 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
     </style>
+
+    <style name="SplashTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/purple_200</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenBrandingImage" tools:targetApi="s">@drawable/logo_footer</item>
+        <item name="postSplashScreenTheme">@style/Theme.EnglishInSound</item>
+    </style>
+
 </resources>
